@@ -12,6 +12,12 @@
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [9.cpp](Problems/9.cpp)|
 | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [10.cpp](Problems/10.cpp)|
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [11.cpp](Problems/11.cpp)|
-| 11 | []() |  | [11.cpp](Problems/11.cpp)|
-| 11 | []() |  | [11.cpp](Problems/11.cpp)|
-| 11 | []() |  | [11.cpp](Problems/11.cpp)|
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [12.cpp](Problems/12.cpp)|
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [13.cpp](Problems/13.cpp)|
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [14.cpp](Problems/14.cpp)|
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.cpp](Problems/15.cpp)|
+| 16 | []() |  | [16.cpp](Problems/16.cpp)|
+| 17 | []() |  | [17.cpp](Problems/17.cpp)|
+| 18 | []() |  | [18.cpp](Problems/18.cpp)|
+| 19 | []() |  | [19.cpp](Problems/19.cpp)|
+| 20 | []() |  | [20.cpp](Problems/20.cpp)|
