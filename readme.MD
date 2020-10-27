@@ -16,8 +16,18 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [13.cpp](Problems/13.cpp)|
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [14.cpp](Problems/14.cpp)|
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.cpp](Problems/15.cpp)|
-| 16 | []() |  | [16.cpp](Problems/16.cpp)|
-| 17 | []() |  | [17.cpp](Problems/17.cpp)|
-| 18 | []() |  | [18.cpp](Problems/18.cpp)|
-| 19 | []() |  | [19.cpp](Problems/19.cpp)|
-| 20 | []() |  | [20.cpp](Problems/20.cpp)|
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [16.cpp](Problems/16.cpp)|
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.cpp](Problems/17.cpp)|
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [N.A](similar to 3Sum, skipped)|
+| 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.py](Problems/19.py), [19.cpp](Problems/19.cpp)|
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.cpp](Problems/20.cpp)|
+| 21 | []() |  | [21.cpp](Problems/21.cpp)|
+| 22 | []() |  | [22.cpp](Problems/22.cpp)|
+| 23 | []() |  | [23.cpp](Problems/23.cpp)|
+| 24 | []() |  | [24.cpp](Problems/24.cpp)|
+| 25 | []() |  | [25.cpp](Problems/25.cpp)|
+| 26 | []() |  | [26.cpp](Problems/26.cpp)|
+| 27 | []() |  | [27.cpp](Problems/27.cpp)|
+| 28 | []() |  | [28.cpp](Problems/28.cpp)|
+| 29 | []() |  | [29.cpp](Problems/29.cpp)|
+| 30 | []() |  | [30.cpp](Problems/30.cpp)|
