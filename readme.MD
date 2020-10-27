@@ -18,7 +18,7 @@
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [15.cpp](Problems/15.cpp)|
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [16.cpp](Problems/16.cpp)|
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [17.cpp](Problems/17.cpp)|
-| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [N.A](similar to 3Sum, skipped)|
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | similar to #15, skipped|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.py](Problems/19.py), [19.cpp](Problems/19.cpp)|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.cpp](Problems/20.cpp)|
 | 21 | []() |  | [21.cpp](Problems/21.cpp)|
