@@ -21,13 +21,18 @@
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | similar to #15, skipped|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [19.py](Problems/19.py), [19.cpp](Problems/19.cpp)|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [20.cpp](Problems/20.cpp)|
-| 21 | []() |  | [21.cpp](Problems/21.cpp)|
-| 22 | []() |  | [22.cpp](Problems/22.cpp)|
-| 23 | []() |  | [23.cpp](Problems/23.cpp)|
-| 24 | []() |  | [24.cpp](Problems/24.cpp)|
-| 25 | []() |  | [25.cpp](Problems/25.cpp)|
-| 26 | []() |  | [26.cpp](Problems/26.cpp)|
-| 27 | []() |  | [27.cpp](Problems/27.cpp)|
-| 28 | []() |  | [28.cpp](Problems/28.cpp)|
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [21.cpp](Problems/21.cpp)|
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [22.cpp](Problems/22.cpp)|
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [23.cpp](Problems/23.cpp)|
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [24.py](Problems/24.py)|
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | [25.cpp](Problems/25.cpp)|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [26.cpp](Problems/26.cpp)|
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [27.py](Problems/27.py)|
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [28.cpp](Problems/28.cpp)|
 | 29 | []() |  | [29.cpp](Problems/29.cpp)|
 | 30 | []() |  | [30.cpp](Problems/30.cpp)|
+
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
+| 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
+| 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [178.sql](Problems/178.sql)|
