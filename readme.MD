@@ -29,9 +29,18 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [26.cpp](Problems/26.cpp)|
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [27.py](Problems/27.py)|
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | Easy | [28.cpp](Problems/28.cpp)|
-| 29 | []() |  | [29.cpp](Problems/29.cpp)|
-| 30 | []() |  | [30.cpp](Problems/30.cpp)|
-
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [29.cpp](Problems/29.cpp)|
+| 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [30.cpp](Problems/30.cpp)|
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [31.cpp](Problems/31.cpp)|
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [32.cpp](Problems/32.cpp)|
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [33.cpp](Problems/33.cpp), [33.py](Problems/33.py)|
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [34.cpp](Problems/34.cpp)|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.cpp](Problems/35.cpp)|
+| 36 | []() |  | [36.cpp](Problems/36.cpp)|
+| 37 | []() |  | [37.cpp](Problems/37.cpp)|
+| 38 | []() |  | [38.cpp](Problems/38.cpp)|
+| 39 | []() |  | [39.cpp](Problems/39.cpp)|
+| 40 | []() |  | [40.cpp](Problems/40.cpp)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
