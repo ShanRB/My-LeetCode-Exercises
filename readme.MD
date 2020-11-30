@@ -36,12 +36,20 @@
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [33.cpp](Problems/33.cpp), [33.py](Problems/33.py)|
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [34.cpp](Problems/34.cpp)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.cpp](Problems/35.cpp)|
-| 36 | []() |  | [36.cpp](Problems/36.cpp)|
-| 37 | []() |  | [37.cpp](Problems/37.cpp)|
-| 38 | []() |  | [38.cpp](Problems/38.cpp)|
-| 39 | []() |  | [39.cpp](Problems/39.cpp)|
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [36.cpp](Problems/36.cpp)|
+| *37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [37.cpp](Problems/37.cpp)|
+| *38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [38.cpp](Problems/38.cpp)|
+| *39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.cpp](Problems/39.cpp)|
 | 40 | []() |  | [40.cpp](Problems/40.cpp)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [178.sql](Problems/178.sql)|
+| 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [1431.cpp](Problems/1431.cpp), [1431.py](Problems/1431.py)|
+| 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Medium | [1476.cpp](Problems/1476.cpp), [1476.py](Problems/1476.py)|
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.cpp](Problems/1480.cpp), [1480.py](Problems/1480.py)|
+| 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard | [1665.cpp](Problems/1665.cpp)|
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [1672.cpp](Problems/1672.cpp)|
+|  | []() |  | [.cpp](Problems/.cpp)|
+
+
