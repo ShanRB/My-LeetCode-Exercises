@@ -70,14 +70,22 @@
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | Easy | [1290.py](Problems/1290.py)|
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [1295.py](Problems/1295.py)|
 | 1299 | [Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/) | Easy | [1299.py](Problems/1299.py)|
+| 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | Medium | [1302.py](Problems/1302.py)|
 | 1313 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | Easy | [1313.py](Problems/1313.py)|
+| 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | Medium | [1315.py](Problems/1315.py)|
+| 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | Medium | [1329.py](Problems/1329.py)|
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.py](Problems/1342.py)|
+| 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [1346.py](Problems/1346.py)|
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | [1365.py](Problems/1365.py)|
+| 1379 | [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | Medium | [1379.py](Problems/1379.py)|
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | Easy | [1389.py](Problems/1389.py)|
+| 1395 | [Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/) | Medium | [1395.py](Problems/1395.py)|
+| 1409 | [Queries on a Permutation With Key](https://leetcode.com/problems/queries-on-a-permutation-with-key/) | Medium | [1409.py](Problems/1409.py)|
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | Easy | [1431.cpp](Problems/1431.cpp), [1431.py](Problems/1431.py)|
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | [1470.py](Problems/1470.py)|
 | 1476 | [Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/) | Medium | [1476.cpp](Problems/1476.cpp), [1476.py](Problems/1476.py)|
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.cpp](Problems/1480.cpp), [1480.py](Problems/1480.py)|
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | [1486.py](Problems/1486.py)|
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [1512.py](Problems/1512.py)|
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | [1528.cpp](Problems/1528.cpp)|
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | [1603.cpp](Problems/1603.cpp)|
