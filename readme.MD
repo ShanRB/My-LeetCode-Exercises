@@ -38,16 +38,20 @@
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.cpp](Problems/35.cpp)|
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [36.cpp](Problems/36.cpp)|
 | *37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | Hard | [37.cpp](Problems/37.cpp)|
-| *38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [38.cpp](Problems/38.cpp)|
-| *39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.cpp](Problems/39.cpp)|
+| 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [38.cpp](Problems/38.cpp)|
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.cpp](Problems/39.cpp)|
 | 40 | []() |  | [40.cpp](Problems/40.cpp)|
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [53.cpp](Problems/53.cpp)|
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.py](Problems/136.py)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [178.sql](Problems/178.sql)|
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.cpp](Problems/237.cpp)|
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Medium | [654.py](Problems/654.py)|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [700.py](Problems/700.py)|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [771.py](Problems/771.py)|
+| 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | Easy | [804.cpp](Problems/804.cpp)|
 | 807 | [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/) | Medium | [807.py](Problems/807.py)|
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [905.py](Problems/905.py)|
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [912.py](Problems/912.py)|
@@ -88,10 +92,16 @@
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | Easy | [1486.py](Problems/1486.py)|
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | Easy | [1512.py](Problems/1512.py)|
 | 1528 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | Easy | [1528.cpp](Problems/1528.cpp)|
+| 1588 | [Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/) | Easy | [1588.cpp](Problems/1588.cpp)|
 | 1603 | [Design Parking System](https://leetcode.com/problems/design-parking-system/) | Easy | [1603.cpp](Problems/1603.cpp)|
+| 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Easy | [1614.cpp](Problems/1614.cpp)|
+| 1637 | [Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/) | Medium | [1637.cpp](Problems/1637.cpp)|
+| 1656 | [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) | Easy | [1656.cpp](Problems/1656.cpp)|
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | Easy | [1662.cpp](Problems/1662.cpp)|
 | 1665 | [Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/) | Hard | [1665.cpp](Problems/1665.cpp)|
+| 1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | Medium | [1669.cpp](Problems/1669.cpp)|
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [1672.cpp](Problems/1672.cpp)|
 |  | []() |  | [.cpp](Problems/.cpp)|
+|  | []() |  | [.py](Problems/.py)|
 
 
