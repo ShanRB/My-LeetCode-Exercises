@@ -41,13 +41,18 @@
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Easy | [38.cpp](Problems/38.cpp)|
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [39.cpp](Problems/39.cpp)|
 | 40 | []() |  | [40.cpp](Problems/40.cpp)|
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [46.cpp](Problems/46.cpp)|
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Easy | [53.cpp](Problems/53.cpp)|
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [78.py](Problems/78.py)|
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [94.cpp](Problems/94.cpp)|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.py](Problems/136.py)|
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.py](Problems/169.py)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [178.sql](Problems/178.sql)|
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.cpp](Problems/237.cpp)|
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.py](Problems/412.py)|
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Medium | [654.py](Problems/654.py)|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | [700.py](Problems/700.py)|
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | Easy | [771.py](Problems/771.py)|
