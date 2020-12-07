@@ -51,14 +51,19 @@
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [108.py](Problems/108.py)|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.py](Problems/136.py)|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.py](Problems/169.py)|
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [171.py](Problems/171.py)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [176.sql](Problems/176.sql)|
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [177.sql](Problems/177.sql)|
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [178.sql](Problems/178.sql)|
+| 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | [215.py](Problems/215.py)|
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [217.py](Problems/217.py)|
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [230.py](Problems/230.py)|
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | Easy | [237.cpp](Problems/237.cpp)|
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [238.py](Problems/238.py)|
 | 242 | [ Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [242.py](Problems/242.py)|
+| 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [287.cpp](Problems/287.cpp), [287.py](Problems/287.py)|
+| 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | Medium | [328.py](Problems/328.py)|
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [347.py](Problems/347.py)|
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.py](Problems/412.py)|
 | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | Medium | [654.py](Problems/654.py)|
