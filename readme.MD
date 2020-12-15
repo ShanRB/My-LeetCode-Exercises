@@ -50,6 +50,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Medium | [94.cpp](Problems/94.cpp)|
 | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | [108.py](Problems/108.py)|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [136.py](Problems/136.py)|
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [146.py](Problems/146.py)|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [169.py](Problems/169.py)|
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | Easy | [171.py](Problems/171.py)|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [175.sql](Problems/175.sql)|
@@ -121,5 +122,3 @@
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | Easy | [1672.cpp](Problems/1672.cpp)|
 |  | []() |  | [.cpp](Problems/.cpp)|
 |  | []() |  | [.py](Problems/.py)|
-
-
